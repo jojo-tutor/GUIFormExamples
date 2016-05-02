@@ -10,5 +10,8 @@ package examples;
  * @author Jojo
  */
 public class AddedClass {
+
+    public AddedClass() {
+    }
     
 }
